@@ -1,5 +1,7 @@
 # Movie-Recommender-System-End-to-End-
 ## Data Source-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+## Project Description: Building of Movie recommender system which recommends 5 movies for a movie selected. The project involves building an application which takes a movie name as an input(shown in Deployment). The application is deployed using framework streamlit. The application was also deployed in cloud Heroku.
 ### Columns 
 #### homepage
 
