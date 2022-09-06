@@ -26,4 +26,6 @@
 #### vote_average
 
 # Deployment
-![image](https://user-images.githubusercontent.com/102762042/188654992-dc9c7de9-b88b-4a9c-8472-ba622ebcb9fa.png)
+![image](https://user-images.githubusercontent.com/102762042/188655761-676e2d85-ea09-4b1e-8d7b-7fc33c2ea733.png)
+
+
